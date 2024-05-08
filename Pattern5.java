@@ -1,5 +1,10 @@
 /*
+
  Patterns  like:
+* * * * 
+* * *
+* *
+*
 
  */
 import java.util.*;
