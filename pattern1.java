@@ -4,6 +4,11 @@ pattern like
 ****
 ****
 ****
+
+RULES:
+1.Fro the outer loop,count the no of lines
+2.For the inner loop, focus on the column, and connect them somehow to the rows
+3.
  */
 
  import java.util.*;
